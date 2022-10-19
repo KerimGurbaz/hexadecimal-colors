@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hexadecimal-colors/static/css/main.b6360137.css",
+    "main.js": "/hexadecimal-colors/static/js/main.15fa9e5a.js",
+    "index.html": "/hexadecimal-colors/index.html",
+    "main.b6360137.css.map": "/hexadecimal-colors/static/css/main.b6360137.css.map",
+    "main.15fa9e5a.js.map": "/hexadecimal-colors/static/js/main.15fa9e5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6360137.css",
+    "static/js/main.15fa9e5a.js"
+  ]
+}
