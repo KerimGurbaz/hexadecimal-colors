@@ -11,8 +11,10 @@ const Hexadecimal = ({ divNum }) => {
 
   return (
     <div className="container">
-      {divNum.map((item) => (
-        <div style={{ backgroundColor: `${myFunction()}` }}>{myFunction()}</div>
+      {divNum.map((item, index) => (
+        <div key={index} style={{ backgroundColor: `${myFunction()}` }}>
+          {myFunction()}
+        </div>
       ))}
     </div>
   );
