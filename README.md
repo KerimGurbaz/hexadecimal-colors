@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-![Uploading Screen Shot 2022-10-19 at 10.54.28.png…]()
+![Screen Shot 2022-10-19 at 10 54 28](https://user-images.githubusercontent.com/101603320/196644851-6ae80f0a-1a16-4328-a4e4-9a94807281b4.png)
 
 
 
